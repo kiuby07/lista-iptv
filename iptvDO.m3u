@@ -22,8 +22,6 @@ https://live.teledom.info:3713/live/cinevisionlive.m3u8
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1,Comunion TV (720p) [Not 24/7]
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
-#EXTINF:-1,CubaVision Internacional (480p) [Not 24/7]
-http://190.122.96.187:8888/http/010
 #EXTINF:-1,DAN TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1,Digital Vision (720p) [Not 24/7]
@@ -34,8 +32,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1,EWTN el Canal Católico (1080p)
 https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
-#EXTINF:-1,Fox Sports 2 Latin America (1080p)
-http://209.91.213.10:8088/play/a02r
 #EXTINF:-1,France 24 Español (576p)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1,Fuego TV (720p) [Not 24/7]
@@ -70,10 +66,6 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1,Mision ELTV (360p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/8286/8286/playlist.m3u8
-#EXTINF:-1,MTV Hits Latinoamérica (576p)
-http://209.91.213.10:8088/play/a00z
-#EXTINF:-1,Nick Jr Latinoamérica (480p)
-http://201.168.205.12:8000/play/a0ck/index.m3u8
 #EXTINF:-1,Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1,ORBIT TV (480p) [Not 24/7]
