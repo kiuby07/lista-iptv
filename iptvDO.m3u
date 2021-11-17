@@ -4,8 +4,6 @@ https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/playlist.m3u8
 https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
 #EXTINF:-1,Anime Zone TV (480p) [Not 24/7]
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1,AXN Latinoamérica (576p)
-http://209.91.213.10:8088/play/a011
 #EXTINF:-1,Canal 12 (480p) [Not 24/7]
 https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
 #EXTINF:-1,Canal 26 (720p)
